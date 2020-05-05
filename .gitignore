@@ -1,5 +1,5 @@
 python-morsels/**/test_*.py
-.DS_Store/
+**/.DS_Store
 .idea/
 
 # Byte-compiled / optimized / DLL files
